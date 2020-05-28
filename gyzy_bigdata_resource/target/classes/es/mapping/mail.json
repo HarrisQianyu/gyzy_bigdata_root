@@ -1,0 +1,30 @@
+{
+  "_source": {
+    "enabled": true
+  },
+  "properties": {
+    "rksj":{"type": "long"},
+    "imei":{"type": "keyword"},
+    "imsi":{"type": "keyword"},
+    "longitude":{"type": "double"},
+    "latitude":{"type": "double"},
+    "phone_mac":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "device_mac":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "device_number":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "collect_time":{"type": "long"},
+
+    "send_mail":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "send_time":{"type": "long"},
+    "accept_mail":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "accept_time":{"type": "long"},
+    "mail_content":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "mail_type":{"type": "keyword"},
+
+     "id":{"type": "keyword"},
+    "table":{"type": "keyword"},
+    "filename":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "absolute_filename":{"type": "text","fields": {"keyword": {"ignore_above": 256,"type": "keyword"}}},
+    "location": {"type": "geo_point"}
+  }
+}
+

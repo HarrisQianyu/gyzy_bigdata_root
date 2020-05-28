@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>gyzy_bigdata_root</groupId>
+  <artifactId>gyzy_bigdata_root</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>gyzy_bigdata_resource</module>
+    <module>gyzy_bigdata_common</module>
+    <module>gyzy_bigdata_flume</module>
+      <module>gyzy_bigdata_kafka</module>
+    <module>gyzy_bigdata_spark</module>
+    <module>gyzy_bigdata_redis</module>
+      <module>gyzy_bigdata_es</module>
+    <module>gyzy_bigdata_hbase</module>
+
+  </modules>
+  <packaging>pom</packaging>
+
+  <name>gyzy_bigdata_root</name>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <cdh.version>cdh6.3.0</cdh.version>
+    <zookeeper.version>3.4.5</zookeeper.version>
+  </properties>
+
+  <repositories>
+<!--    <repository>-->
+<!--      <id>central</id>-->
+<!--      <url>https://maven.aliyun.com/repository/central</url>-->
+<!--    </repository>-->
+<!--   <repository>-->
+<!--      <id>Akka repository</id>-->
+<!--      <url>http://repo.akka.io/releases</url>-->
+<!--    </repository>-->
+      <!--CDH maven源-->
+    <repository>
+      <id>cloudera</id>
+      <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+    </repository>
+  </repositories>
+
+
+  <dependencies>
+
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+  </build>
+</project>

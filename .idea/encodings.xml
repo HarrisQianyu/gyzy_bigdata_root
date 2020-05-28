@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_flume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_flume/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_hbase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_resource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_spark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gyzy_bigdata_spark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_hbase/src/main/java" charset="UTF-8" />
+  </component>
+</project>

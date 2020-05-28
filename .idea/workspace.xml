@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b06c08-8f6e-4ab9-9114-bdf2945ce8b4" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>EsSpark</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\gitwork\tz14_bigdata_root\tz14_bigdata_spark\src\main\scala</dir>
+    </dirStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="F:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bL8qEa9Zt94Ft0DuV0Xvf3lOSX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud/gyzy_springcloud_root" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2920354" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cn.tz14.springcloud.es" />
+      <recent name="com.cn.tz14.springcloud.hbase" />
+      <recent name="com.cn.tz14.springcloud.controller" />
+      <recent name="tz14_bigdata_root.hbase.spilt" />
+      <recent name="tz14_bigdata_root.spark.streaming.kafka.hive" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习资源\秋招准备\第四阶段：项目实战\企业网络日志\0321-微服务层(一)\tz14_bigdata_root\tz14_bigdata_common\src\main\java\tz14_bigdata_root\common\net" />
+      <recent name="D:\学习资源\秋招准备\第四阶段：项目实战\企业网络日志\0321-微服务层(一)\tz14_bigdata_root\tz14_bigdata_resource\src\main\resources\spark\hive" />
+      <recent name="D:\学习资源\秋招准备\第四阶段：项目实战\企业网络日志\0321-微服务层(一)\tz14_bigdata_root\tz14_bigdata_resource\src\main\resources\hbase" />
+      <recent name="D:\gitwork\tz14_bigdata_root\springcloud\tz14_springcloud_root\tz14_springcloud_es\src\main" />
+      <recent name="D:\gitwork\tz14_bigdata_root\springcloud\tz14_springcloud_root\tz14_springcloud_hbase\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DataRelationStreaming">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tz14_bigdata_root.App" />
+      <module name="gyzy_bigdata_flume" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tz14_bigdata_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tz14_bigdata_root.App" />
+      <module name="gyzy_bigdata_redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tz14_bigdata_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gzzy_bigdata_root.App" />
+      <module name="gyzy_bigdata_flume" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gzzy_bigdata_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gzzy_bigdata_root.App" />
+      <module name="tz14_bigdata_redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gzzy_bigdata_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gzzy_bigdata_root.App" />
+      <module name="tz14_bigdata_spark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gzzy_bigdata_root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataRelationStreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="gzzy_bigdata_root.spark.streaming.kafka.hbase.DataRelationStreaming" />
+      <module name="gyzy_bigdata_spark" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gzzy_bigdata_root.spark.streaming.kafka.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="gyzy_bigdata_resource" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="gyzy_bigdata_resource" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gyzy_springcloud_hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cn.tz14.springcloud.hbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.tz14.springcloud.hbase.HbaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.DataRelationStreaming" />
+      <item itemvalue="Spring Boot.HbaseApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataRelationStreaming" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Spring Boot.HbaseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b06c08-8f6e-4ab9-9114-bdf2945ce8b4" name="Default" comment="" />
+      <created>1582373382116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582373382116</updated>
+      <workItem from="1582373387408" duration="7811000" />
+      <workItem from="1582948397819" duration="8830000" />
+      <workItem from="1583058655171" duration="1471000" />
+      <workItem from="1583060226775" duration="7058000" />
+      <workItem from="1583067363984" duration="149000" />
+      <workItem from="1583067721678" duration="26000" />
+      <workItem from="1583067794348" duration="7000" />
+      <workItem from="1583067830320" duration="73000" />
+      <workItem from="1583113541259" duration="12535000" />
+      <workItem from="1583321354468" duration="10519000" />
+      <workItem from="1583476920775" duration="2007000" />
+      <workItem from="1583479523276" duration="37460000" />
+      <workItem from="1583754282042" duration="21000" />
+      <workItem from="1583754311968" duration="11326000" />
+      <workItem from="1583923078185" duration="9710000" />
+      <workItem from="1584099848931" duration="9834000" />
+      <workItem from="1584184949602" duration="11134000" />
+      <workItem from="1584345992585" duration="2869000" />
+      <workItem from="1584360824403" duration="9559000" />
+      <workItem from="1584373574401" duration="16876000" />
+      <workItem from="1584524044215" duration="7835000" />
+      <workItem from="1584544959237" duration="615000" />
+      <workItem from="1584704135202" duration="11538000" />
+      <workItem from="1584777886143" duration="14276000" />
+      <workItem from="1588400203297" duration="6102000" />
+      <workItem from="1588472870273" duration="610000" />
+      <workItem from="1588482293610" duration="1199000" />
+      <workItem from="1588601205004" duration="4631000" />
+      <workItem from="1588657893169" duration="1203000" />
+      <workItem from="1588732484248" duration="2366000" />
+      <workItem from="1588864000162" duration="3278000" />
+      <workItem from="1588915596594" duration="1824000" />
+      <workItem from="1588941023410" duration="243000" />
+      <workItem from="1589555031251" duration="688000" />
+      <workItem from="1590505930193" duration="2320000" />
+      <workItem from="1590542017471" duration="6667000" />
+      <workItem from="1590551524349" duration="25746000" />
+      <workItem from="1590640653031" duration="4591000" />
+      <workItem from="1590655925202" duration="1310000" />
+      <workItem from="1590668339527" duration="1763000" />
+      <workItem from="1590673743455" duration="22000" />
+      <workItem from="1590673843469" duration="208000" />
+      <workItem from="1590674069200" duration="118000" />
+      <workItem from="1590674202220" duration="241000" />
+      <workItem from="1590674457978" duration="377000" />
+      <workItem from="1590674851042" duration="722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1590549751931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590549751931" />
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590507798547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590507798547" />
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1590592126377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="327" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1590592126377" />
+    <state x="571" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1590592856078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590592856078" />
+    <state x="150" y="188" key="FileChooserDialogImpl" timestamp="1590674962167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="150" y="188" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590674962167" />
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom" timestamp="1590594435078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590594435078" />
+    <state width="1493" height="179" key="GridCell.Tab.0.center" timestamp="1590594435078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590594435078" />
+    <state width="1493" height="179" key="GridCell.Tab.0.left" timestamp="1590594435078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590594435078" />
+    <state width="1493" height="179" key="GridCell.Tab.0.right" timestamp="1590594435078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590594435078" />
+    <state x="429" y="110" width="1040" height="603" key="NewModule_or_Project.wizard" timestamp="1590674964831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="110" width="1040" height="603" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1590674964831" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1590674970600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590674970600" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590674857564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590674857564" />
+    <state x="178" y="108" key="new project wizard" timestamp="1590673673212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590673673212" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590569259599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590569259599" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.4.0-cdh6.3.0/spark-streaming-kafka-0-10_2.11-2.4.0-cdh6.3.0-sources.jar!/org/apache/spark/streaming/kafka010/ConsumerStrategy.scala</url>
+          <line>433</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.cn.gyzy.springcloud</groupId>
+  <artifactId>gyzy_springcloud_root</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>gyzy_springcloud_common</module>
+    <module>gyzy_springcloud_eureka</module>
+    <module>gyzy_springcloud_hbase</module>
+      <module>gyzy_springcloud_es</module>
+  </modules>
+  <packaging>pom</packaging>
+
+  <name>gyzy_springcloud_root</name>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+  <!--1.41 版本   改为2.09  引入springboot-->
+  <parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>2.0.9.RELEASE</version>
+  </parent>
+
+  <!--依赖管理，用于管理spring-cloud的依赖-->
+  <dependencyManagement>
+    <dependencies>
+      <!--spring-cloud-dependencies-->
+      <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-dependencies</artifactId>
+        <version>Finchley.SR1</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
+
+  <dependencies>
+
+  </dependencies>
+
+
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tz14_springcloud_eureka-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springcloud/gyzy_springcloud_root/gyzy_springcloud_eureka/target/tz14_springcloud_eureka-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
